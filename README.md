@@ -1,7 +1,7 @@
 
 ### Hi there 👋 I’m Silviya Karageorgieva
 - 🌱 I’m currently learning web development with C# and JavaScript
-- 👀 I am interested in iOS development
+- 👀 I’m interested in iOS development
 - 📫 How to reach me: silviya.karageorgieva@yahoo.com
 
 <!--
