@@ -7,4 +7,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silviyakarageorgiev&layout=compact)](https://github.com/SilviyaKarageorgiev/silviyakarageorgiev/edit/main/README.md)
 
-![](https://komarev.com/ghpvc/?username=SilviyaKarageorgiev)
+![](https://komarev.com/ghpvc/?username=SilviyaKarageorgiev&color=yellow)
